@@ -1,0 +1,22 @@
+BİLPA'NIN ORMAN MACERASI — ORİJİNAL SESLİ SÜRÜM
+
+Bu oyun yalnızca gönderdiğiniz iki özgün ses kaydını konuşma olarak kullanır.
+İlk oyunda Başla butonuna basılınca açılış, bölümün hikâyesi ve görevi sizin sesinizle çalar.
+Her bölüm hedefe ulaşınca başarı sesinizi, engelde veya yanlış kodda uygun uyarı sesinizi çalar.
+"Hikâyeyi dinle" ve "Görevi sesimle dinle" düğmeleriyle sesler tekrarlanabilir.
+15. bölümün sonunda kapanış kaydınız da oynatılır.
+
+GITHUB PAGES KURULUMU:
+1. Bu ZIP içeriğini açın.
+2. index.html ve assets klasörünü birlikte GitHub deponuza yükleyin.
+3. Settings > Pages > Deploy from branch > main / (root) seçin.
+4. Tarayıcıda oyun bağlantınızı açıp "Haydi Başlayalım" butonuna basın.
+
+ÇEVRİMDIŞI TEK DOSYA:
+Bilpa_Orman_Macerasi_SESLI_tek_dosya_index.html başka bir seçenektir.
+Sesleri ve görselleri içinde bulunduğundan assets klasörüne ihtiyaç duymaz.
+Bir kopyasını index.html olarak adlandırarak GitHub'a da koyabilirsiniz.
+
+NOT: Telefon/tablet tarayıcılarının ses kısıtlaması nedeniyle sesler "Başla" veya
+"Dinle" düğmesine kullanıcı dokunduktan sonra çalınır.
+Bölüm içi sesler WAV dosyalarındaki uzun kayıtlardan sessizlik aralarında kesilmiştir.
